@@ -1,0 +1,16 @@
+do the farlands trick & float trick in java edition 1.20 & 1.19.4
+Starting version is 1.0.0 for Minecraft Java Edition 1.19.4
+Please do the launcher for compatible versions of a1.1.2_01 - 1.19.4 rc-3
+A new line will be created to include extra news
+Include a .launch file and launcher folder in the extra folder.
+Pocket edition will be added to the title
+Might need to add new commands
+Editor will allow customization options to the menu if needed
+Pre-releases will show the build still
+A version line will be added
+Please download the older version of the API here to have more power.
+Re-add the old sounds
+Please include console line.
+Check if every .jar file is working, if not, then use 7-zip to find out the problem.
+use /tp 12550821 129 12550821
+Please include extras.
