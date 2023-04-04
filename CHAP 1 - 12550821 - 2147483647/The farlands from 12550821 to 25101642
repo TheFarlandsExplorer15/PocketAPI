@@ -1,0 +1,7 @@
+When reaching +x +z -x -z 12550821, you'll see the normal level terrain breackdown to the **Farlands**.
+This is impossible to do in the versions inf-20100624-a1.0.17_04.
+There is probably a stuttering bug called the **Famous Stutter of the Farlands**.
+It's not actually *hard* to move around, though.
+Just fix a few **floats** in the **renderer.octaves.float** and **renderer.precision.float** to *renderer.octaves.double* and *renderer.precision.double*.
+A few things to note are in the **Notes.jar** file will give you extra information if you want to.
+This is an insight of the **beta 1.7.3** farlands.

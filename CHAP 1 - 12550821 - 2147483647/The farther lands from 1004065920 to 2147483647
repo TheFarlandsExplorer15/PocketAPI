@@ -1,0 +1,2 @@
+When we reach the 1004065920 mark, the farlands loose all of their detail because of an noise scale overflow which causes the farlands to appear as the farther lands instead.
+Nothing really changes, of course, but in the negative direction, the fartherlands at -2008132072 change again due to an slight overflow at this point.
