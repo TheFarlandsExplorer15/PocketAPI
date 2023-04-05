@@ -1,0 +1,10 @@
+float=684.412
+float=684.413
+offset=1
+offset=4
+parameters('171.103/171.103/512*4=chunk_offset=684.412*2048')
+-parameters('171.104\171.104\511*8=chunk=-684.412/2047')
+replace ('double') with ('float')
+parameters('chunk_repeat('('on X')')=8')
+parameters('chunk_repeat('('on Z')')=4')
+parameters('negative=-171.103\2147483648=34359738368('('allow')')positive=171.103*2147483647=34359736457')
