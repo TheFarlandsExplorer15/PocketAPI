@@ -15,5 +15,5 @@ How to do:
 2. run the application of .launch, .launcher, .jar, .exe, .bat, .javarun, .tar.gz files above.
 3. please replace java with openJDK-21-ea-15.
 4. use 7-zip or other file viewers to see whats wrong.
-5. hava fun!!!
+5. have fun!!!
 These steps are the most important ones, so please check my youtube channel, my reddit community, my mediafire .logs, and my comments on youtube.
