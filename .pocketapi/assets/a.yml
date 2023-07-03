@@ -1,0 +1,16 @@
+<:code:>
+<set>: $ set v "l" directory 40 .jar binary
+<:output:> dir "l" is a value
+
+
+--!-- The directory "l" is used for special programming which I created in my non-public pocketapi coder.exe program :
+:line: $ dir "l" use java binary 60 java binary 65 java binary 70 /dir create overlap :lap: /dir :lap: overlap :
+:line: $ dect "l" lapping 8 binary(s) :
+:list: javascript 8u381(bin)
+:list: js 7u391(bin)
+:list: js 11.0.21(bin)
+:list: js 17.0.8(bin)
+:list: js 21.0.0(bin)
+:list: pyw 3.10.7(binw)
+:list: pyw 3.11.4(binw)
+:list: pyw 3.12.0b3(binw)
