@@ -1,5 +1,4 @@
 # This will check for errors in the commits
-
 name: CheckErrors
 
 # Controls when the workflow will run
