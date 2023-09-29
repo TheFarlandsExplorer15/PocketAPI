@@ -1,5 +1,5 @@
 # Check for errors
-name: CheckErrors
+name: Check for Errors
 
 # Controls when the workflow will run
 on:
